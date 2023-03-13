@@ -1,1 +1,1 @@
-# SRS document project for Online MetroRail Ticket Booking System
+# SRS document project for Online Metro Rail Ticket Booking System
